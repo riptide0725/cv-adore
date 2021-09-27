@@ -1,0 +1,162 @@
+.panda {
+  height: 600px;
+  background-color: rgb(176, 251, 226);
+  position: relative;
+  padding-top: 30px;
+}
+body {
+  margin: 0;
+}
+.pan {
+  height: 200px;
+}
+.bam1 {
+  height: 300px;
+  position: absolute;
+  bottom: 0%;
+  left: 28%;
+}
+.bam2 {
+  height: 300px;
+  position: absolute;
+  bottom: 0%;
+  right: 32%;
+}
+.sun {
+  height: 100px;
+}
+.mount {
+  position: absolute;
+  bottom: 0%;
+  left: 35%;
+}
+.cloud2 {
+  position: absolute;
+  right: 40%;
+  bottom: 55%;
+}
+.cloud1 {
+  position: absolute;
+  bottom: 48%;
+  right: 50%;
+}
+.sun {
+  position: absolute;
+  left: 50%;
+  top: 48%;
+}
+.pan {
+  position: absolute;
+  left: 45%;
+  bottom: 0%;
+}
+.upper {
+  text-align: center;
+}
+h1 {
+  margin-top: 0px;
+}
+.logo {
+  height: 200px;
+  border-radius: 100%;
+  object-fit: contain;
+}
+.profile {
+  text-align: center;
+  padding: 20px;
+}
+.code {
+  height: 200px;
+}
+.skills {
+  text-align: center;
+}
+.skill-row1 {
+  margin-left: 200px;
+}
+.code {
+  float: left;
+  text-align: left;
+  margin-bottom: 5%;
+  margin-left: 35%;
+  margin-right: 20px;
+}
+.pan3 {
+  float: right;
+
+  text-align: right;
+  margin-left: 20px;
+  margin-right: 15%;
+}
+.skills {
+  text-align: center;
+  height: 600px;
+  background-color: aquamarine;
+  padding: 10px;
+}
+.skill-row1 {
+  width: 50%;
+  margin-right: 20%;
+  text-align: center;
+}
+.skill-row2 {
+  width: 50%;
+  margin-left: 32%;
+}
+hr {
+  margin-bottom: 0px;
+}
+h2 {
+  margin-top: 0px;
+}
+.gif1 {
+  height: 100px;
+  position: absolute;
+}
+.gif2 {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 25%;
+}
+.abc {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background: url(https://images.unsplash.com/photo-1586581277029-5769487f3881?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFtYm9vJTIwZm9yZXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
+    no-repeat;
+  background-size: cover;
+}
+.gifc {
+  bottom: 10%;
+  left: 430px;
+}
+.gifd {
+  bottom: 10%;
+  right: 430px;
+}
+.gifa {
+  top: 10%;
+  left: 430px;
+  transform: rotate(-20deg);
+}
+.gifb {
+  top: 10%;
+  right: 430px;
+  transform: rotate(20deg);
+}
+hr {
+  margin: 0;
+}
+.contact-me {
+  text-align: center;
+}
+h1 {
+  font-family: "Merienda", cursive;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
